@@ -14,3 +14,4 @@ function playPause() {
     else 
         myVideo.pause(); 
 }
+window.playPause = playPause;
